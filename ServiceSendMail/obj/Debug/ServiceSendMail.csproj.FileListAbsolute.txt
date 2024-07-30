@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\bin\Debug\ServiceSendMail.exe.config
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\bin\Debug\ServiceSendMail.exe
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\bin\Debug\ServiceSendMail.pdb
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\obj\Debug\ServiceSendMail.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\obj\Debug\ServiceSendMail.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\obj\Debug\ServiceSendMail.exe
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\obj\Debug\ServiceSendMail.pdb
+C:\Users\DELL\Desktop\Nouveau dossier\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\bin\Debug\ServiceSendMail.exe.config
+C:\Users\DELL\Desktop\Nouveau dossier\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\bin\Debug\ServiceSendMail.exe
+C:\Users\DELL\Desktop\Nouveau dossier\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\bin\Debug\ServiceSendMail.pdb
+C:\Users\DELL\Desktop\Nouveau dossier\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\obj\Debug\ServiceSendMail.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Nouveau dossier\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\obj\Debug\ServiceSendMail.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Nouveau dossier\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\obj\Debug\ServiceSendMail.exe
+C:\Users\DELL\Desktop\Nouveau dossier\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\API\ApiSharedMemory\ServiceSendMail\obj\Debug\ServiceSendMail.pdb

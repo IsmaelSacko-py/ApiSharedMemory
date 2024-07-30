@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BdKireneEntitiesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Produit">
+    <Key>
+      <PropertyRef Name="idProduit" />
+    </Key>
+    <Property Name="idProduit" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CodeProduit" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="DesignationProduit" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="PrixUnitaire" Type="Double" />
+    <Property Name="QuantiteMinimale" Type="Int32" />
+    <Property Name="QuantiteMaximale" Type="Int32" />
+    <Property Name="CodeCategorie" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PrixAchat" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="BdKireneEntitiesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Produit" EntityType="Self.Produit" />
+  </EntityContainer>
+</Schema>

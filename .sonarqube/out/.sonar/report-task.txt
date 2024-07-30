@@ -1,0 +1,6 @@
+projectKey=Csharp-Scan
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=Csharp-Scan
+ceTaskId=8c2e9ad5-1dc4-43eb-a87b-f49ed17dc62c
+ceTaskUrl=http://localhost:9000/api/ce/task?id=8c2e9ad5-1dc4-43eb-a87b-f49ed17dc62c
